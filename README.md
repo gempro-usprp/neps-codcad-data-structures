@@ -1,5 +1,5 @@
 # neps-codcad-data-structures
-Soluções dos membros do Gempro para os problemas do curso de Estruturas de Dados (codcad) do NepsAcademy
+Soluções dos membros do Gempro para os problemas do curso de [Estruturas de Dados (codcad) do NepsAcademy](https://neps.academy/br/course/estruturas-de-dados-(codcad))
 
 ## Submeter soluções
 1. Faça um [fork](https://docs.github.com/pt/get-started/quickstart/fork-a-repo?tool=cli) deste repositório
